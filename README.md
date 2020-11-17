@@ -8,7 +8,7 @@ This is a test kernel module
 * [Mateo Gonzalez] (https://github.com/MateoGL) *Padwan*
 * [Nicanor Sandoval](https://github.com/nicanorsandoval) *Padwan*
 * [Oswaldo Holguin](https://github.com/Oswaldo-Holguin) *Padwan*
-
+* [Javier Carrera](https://github.com/JavierCarreraHW) *Padwan*
 
 ### Git Basic commands
 
